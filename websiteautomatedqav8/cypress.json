@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://tslots.draft10.com/category/casino",
+  "viewportWidth": 1920,
+  "viewportHeight": 865,
+  "projectId": "er13nd",
+  "ignoreTestFiles": [
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*",
+    "**/login_specs/*_specs.js"
+  ]
+}
